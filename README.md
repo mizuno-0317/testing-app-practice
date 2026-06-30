@@ -1,3 +1,31 @@
+ testing-app-practice
+
+## 概要
+COACHTECH 教材 Tutorial 10-5「テスト ハンズオン演習」で作成した成果物です。
+ユーザーを登録して、登録が正常にできるかをテストした。
+そのほかアドレスを重複してテストした際に、エラーが出るかをテストした
+
+## 使用技術
+- PHP 8.2
+- Laravel 10.0
+- PHPUnit（テスト）
+- Eloquent / Factory
+（**他に使ったものがあれば追記してください**）
+
+## 学んだこと
+- テスト機能の実装
+- 
+- 
+
+## 動作確認
+sail artisan testで確認。
+
+
+
+
+
+
+
 <p align="center"><a href="https://laravel.com" target="_blank"><img src="https://raw.githubusercontent.com/laravel/art/master/logo-lockup/5%20SVG/2%20CMYK/1%20Full%20Color/laravel-logolockup-cmyk-red.svg" width="400" alt="Laravel Logo"></a></p>
 
 <p align="center">
